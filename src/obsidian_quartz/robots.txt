@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# 指导搜索引擎找到你的站点地图
-Sitemap: https://sallyn.top/sitemap.xml
