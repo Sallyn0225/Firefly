@@ -5,10 +5,10 @@ import type { FriendLink } from "../types/config";
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
-		title: "夏夜流萤",
-		imgurl: "https://q1.qlogo.cn/g?b=qq&nk=7618557&s=640",
-		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
-		siteurl: "https://blog.cuteleaf.cn",
+		title: "Woodash · 灰分",
+		imgurl: "https://avatars.githubusercontent.com/u/69113922?v=4",
+		desc: "技术 与美学 与数字花园。",
+		siteurl: "https://woodash.cc/",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
