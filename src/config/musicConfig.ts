@@ -21,7 +21,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 		type: "playlist",
 
 		// 歌单/专辑/单曲 ID 或搜索关键词
-		id: "10046455237", // 网易云音乐歌单ID示例
+		id: "17596538084", // 网易云音乐歌单ID示例
 
 		// 认证 token（可选）
 		auth: "",
@@ -70,7 +70,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 		preload: "auto",
 
 		// 默认音量 (0-1)
-		volume: 0.7,
+		volume: 0.5,
 
 		// 是否互斥播放（同时只能播放一个播放器）
 		mutex: true,
